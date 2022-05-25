@@ -30,8 +30,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Mobile-first workflow
 - [Tailwind CSS](https://tailwindcss.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 From this project, I learned about how to work with Tailwind CSS and know more about html and css.
